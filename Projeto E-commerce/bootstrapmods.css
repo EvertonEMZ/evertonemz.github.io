@@ -1,0 +1,22 @@
+.nav {
+margin-top: 1px;
+}
+
+.navbar-brand {
+    max-width: 4%;
+}
+.card-header {
+background-color: darkslategray;
+}
+.btn-primary {
+    background-color: red; /* Define a cor de fundo como vermelha */
+    border-color: red; /* Define a cor da borda como vermelha (se necessário) */
+    color: white; /* Define a cor do texto como branco para garantir a legibilidade */
+}
+
+/* Estilize o botão quando o mouse passar por cima (hover) */
+.btn-primary:hover {
+    background-color: darkred; /* Define a cor de fundo quando o mouse passar por cima */
+    border-color: darkred; /* Define a cor da borda quando o mouse passar por cima (se necessário) */
+    color: white; /* Define a cor do texto como branco para garantir a legibilidade */
+}
